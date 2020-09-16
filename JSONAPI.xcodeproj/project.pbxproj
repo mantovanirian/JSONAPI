@@ -513,10 +513,10 @@
          isa = "PBXGroup";
          children = (
             "JSONAPI::JSONAPI::Product",
-            "JSONAPI::JSONAPITestingTests::Product",
             "Poly::Poly::Product",
-            "JSONAPI::JSONAPITests::Product",
-            "JSONAPI::JSONAPITesting::Product"
+            "JSONAPI::JSONAPITesting::Product",
+            "JSONAPI::JSONAPITestingTests::Product",
+            "JSONAPI::JSONAPITests::Product"
          );
          name = "Products";
          path = "";
